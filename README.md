@@ -1,10 +1,10 @@
 # normand-web-dev
 
-Implementation of tutorial by Eric Normand at ericnormand.me/guide/clojure-web-tutorial
+Implementation of tutorial by Eric Normand at https://ericnormand.me/guide/clojure-web-tutorial
 
 ## Usage
 
-FIXME
+Minimal web application, setup for interactive, REPL-driven development. Intended as a template for further projects.
 
 ## License
 
